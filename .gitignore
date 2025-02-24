@@ -1,0 +1,5 @@
+/sketch/*
+
+!/sketch/.gitignore
+
+!/sketch/sketch.ino
